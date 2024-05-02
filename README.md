@@ -5,21 +5,22 @@
 
 
 ## Description
-This is a Pomodoro study Android app designed to help users focus on their tasks effectively. The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s, which uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. This app implements the Pomodoro Technique, saves the users data in cache and also allows users to add tasks for better organization.
+This is a Pomodoro study Android app designed to help users focus on their tasks effectively. The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s, which uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. This app implements the Pomodoro Technique, saves the user's data in the app's cache and allows users to add tasks for better organization.
 
 ## Features
 - Pomodoro timer: Set custom time intervals for work and breaks.
 - Task management: Add, edit, and delete tasks for better organization.
 - Quotes: Random Quotes every session.
-- User data saved: The user's is only asked once and saved in the apps cache.
+- User data saved: The user's name is only asked once and saved in the app's cache.
 
 ## Technologies Used
 - Java
 - Android Studio
 
 ## Screenshots
-![Screenshot 1](link_to_screenshot_1.png)
-![Screenshot 2](link_to_screenshot_2.png)
+![Screenshot 1](https://github.com/Sphynx6/Pomodoro_android/blob/master/Screenshots/screenshot1.jpg)
+![Screenshot 2](https://github.com/Sphynx6/Pomodoro_android/blob/master/Screenshots/screenshot2.jpg)
+![Screenshot 3](https://github.com/Sphynx6/Pomodoro_android/blob/master/Screenshots/screenshot3.jpg)
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/Sphynx6/Pomodoro_android.git`
@@ -28,7 +29,7 @@ This is a Pomodoro study Android app designed to help users focus on their tasks
 
 ## Usage
 1. Open the app on your Android device.
-2. Enter User name
+2. Enter a User name
 3. Set the duration for work and break sessions.
 4. Add a task.
 5. Start a Pomodoro session by tapping on the play button.
