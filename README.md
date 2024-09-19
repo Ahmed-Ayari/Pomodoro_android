@@ -23,7 +23,7 @@ This is a Pomodoro study Android app designed to help users focus on their tasks
 ![Screenshot 3](https://github.com/Sphynx6/Pomodoro_android/blob/master/Screenshots/screenshot3.jpg)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/Sphynx6/Pomodoro_android.git`
+1. Clone the repository: `git clone https://github.com/Ahmed-Ayari/Pomodoro_android.git`
 2. Open the project in Android Studio.
 3. Build and run the project on an Android emulator or physical device.
 
